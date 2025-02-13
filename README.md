@@ -75,23 +75,7 @@ in the past. You'll have to trust that it's actually me.
 
 Make cool stuff.
 
-It's as simple as that.
-
-I'm a college student. I'm overworked, broke, and a borderline caffine addict (not really).
-I choose hard classes, hold myself to really high standards, and push myself further then I
-even think I can go. Why? I love to learn. I love to solve hard problems. I like challenging
-myself and seeing how good I can get. I learned that from swimming. I enjoy the grind; the
-hours spent studying; the wtf moments when stuff doesn't make sense; and the slow, painful
-process to get better. But more importantly, I love looking back at myself and realizing how
-much I've grown. In swimming, it's simple: your time gets faster. In life, I strive to go to
-bed every day stronger, smarter, and a better version of myself than yesterday.
-
-It's cliche, but I don't care.
-
-I will never pass up the opportunity to learn a new technology, a process, or better
-understand something better.
-
-But that's all really general. What does that mean:
+But that's really general. What does that mean:
  * I want to do systems development. I want to better understand what makes computers tick.
  * I want to learn about language development. I've written a few compilers in my time, but
    I want to know how the real developers do it.
