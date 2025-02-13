@@ -11,6 +11,8 @@
  * I've been called a perfectionist before because I've written the same code hundreds
    of times to get it perfect. I don't think that's true. I like exploring; looking
    through the endless solutions to find the one that's *just* right.
+ * I'm a yapper. I love talking about stuff I find cool, but I also **love** listening to
+   stuff other people find cool--even if I'm not smart enough to understand them.
  * I don't drink coffee, but I'm an Earl Grey addict. If you give be a box of Earl Grey tea,
    you will become my favorite person ever.
 
